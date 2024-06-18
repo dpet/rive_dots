@@ -26,6 +26,9 @@ body{
     border-radius: 10px;
     border: 1px solid black;
 }
+.text-container a{
+    color: rgb(60, 200, 255);
+}
 .title {
     font-size: 40px;
     width: 1000px;
